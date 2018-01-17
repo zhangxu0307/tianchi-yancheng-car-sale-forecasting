@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4622b1ac-e79e-4147-aff5-c4ce77b979bd" name="rinc_gpu2" url="http://114.212.85.40">
+        <fileTransfer host="114.212.85.40" port="22" rootFolder="/home/zhangxu/python_project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
