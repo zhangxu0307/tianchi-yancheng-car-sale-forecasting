@@ -5,4 +5,4 @@ import numpy as np
 data = pd.read_csv("../data/[new] yancheng_train_20171226.csv")
 print(data.columns)
 
-print(data["class_id"].nunique())
+print(data[data["class_id"] ==  103507 & data["sale_date"] == 201609])
